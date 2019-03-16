@@ -1,0 +1,30 @@
+{
+  "name": "umi-library-ts-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "umi-lib build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leftstick/umi-library-ts-test.git"
+  },
+  "keywords": [
+    "umi-library",
+    "ts",
+    "test"
+  ],
+  "author": "Howard.Zuo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leftstick/umi-library-ts-test/issues"
+  },
+  "homepage": "https://github.com/leftstick/umi-library-ts-test#readme",
+  "dependencies": {
+    "umi-library": "^1.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.3.3333"
+  }
+}
